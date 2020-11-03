@@ -1,0 +1,46 @@
+body{
+    margin : 0;
+    padding: 0;
+    background-color: brown;
+    height: 100vh;
+}
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 7vh;
+    font-size: 7vh;
+}
+
+.main {
+    text-align: center;
+}
+
+.principale{
+    text-align: center;
+    margin-top: 7vh;
+    color: whitesmoke;
+    font-size: 4vh;
+}
+
+label, select, button {
+    text-align: center;
+}
+
+label{
+    color: whitesmoke;
+    font-size: 4vh;
+}
+.selectType{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    width: 500px;
+    text-align: center;
+    font-size: 2vh;
+}
+
+p{
+    color: whitesmoke;
+    font-size: 2vh;
+}
+
